@@ -84,7 +84,9 @@ def main():
         "client_analyzer",
         "transfer_analyzer", 
         "combiner",
-        "adder"
+        "adder",
+        "assumptions",
+        "finalres"
     ]
     
     print("🚀 Starting Data Processing Pipeline")
